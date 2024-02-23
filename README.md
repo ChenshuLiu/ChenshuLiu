@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Chenshu Liu</h1>
 <h3 align="center">An AI-Enthusiast passionate about interdisplinary AI applications</h3>
-<img align = "right" alt = "AI" src = "https://miro.medium.com/v2/resize:fit:1280/0*1fOKSM9na9IBROxm.gif">
+<img align="right" alt="AI" width=400 src="https://miro.medium.com/v2/resize:fit:1280/0*1fOKSM9na9IBROxm.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chenshuliu&label=Profile%20views&color=0e75b6&style=flat" alt="chenshuliu" /> </p>
 
