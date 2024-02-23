@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Chenshu Liu</h1>
 <h3 align="center">An AI-Enthusiast passionate about interdisplinary AI applications</h3>
+<img align = "right" alt = "AI" src = "blob:https://dreamstudio.ai/236da6ee-4cf9-4bbd-badc-e97af8767a86">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chenshuliu&label=Profile%20views&color=0e75b6&style=flat" alt="chenshuliu" /> </p>
 
@@ -10,6 +11,8 @@
 - 👯 I’m looking to collaborate on **Creating an AI-ecosystem for Conservation of Cultural Heritage**
 
 - 🤝 I’m looking for help with **Using Graph Neural Networks for 3D Object Reconstruction**
+
+- 📑 You can find my publications at [https://scholar.google.com/citations?user=mZhhswoAAAAJ&hl=en](https://scholar.google.com/citations?user=mZhhswoAAAAJ&hl=en)
 
 - 👨‍💻 All of my projects are available at [https://chenshu0615.wixsite.com/chenshu-liu/copy-of-analytical-projects](https://chenshu0615.wixsite.com/chenshu-liu/copy-of-analytical-projects)
 
