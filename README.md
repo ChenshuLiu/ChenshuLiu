@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [Minimal Invasive Eyelid Pressure Diagnosis for Dry-Eye-Syndrome](https://github.com/ChenshuLiu/DES_Diagnosis)
 
-- 🌱 I’m currently learning **LangChain, Streamlit**
+- 🌱 I’m currently learning **Multimodal LLM, LangChain, Streamlit**
 
 - 👯 I’m looking to collaborate on **Creating an AI-ecosystem for Conservation of Cultural Heritage**
 
