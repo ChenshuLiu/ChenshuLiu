@@ -8,7 +8,7 @@
 
 - 📑 You can find my publications at [https://scholar.google.com/citations?user=mZhhswoAAAAJ&hl=en](https://scholar.google.com/citations?user=mZhhswoAAAAJ&hl=en)
 
-- 👨‍💻 All of my projects (past & on-going) are available at [this site](https://chenshuliu.github.io/Portfolio/)
+- 👨‍💻 All of my projects (past & ongoing) and research interests can be found at [this site](https://chenshuliu.github.io/Portfolio/)
 
 - 📝 I regularly write articles on [https://chenshu0615.wixsite.com/chenshu-liu/brainstorms](https://chenshu0615.wixsite.com/chenshu-liu/brainstorms)
 
@@ -16,9 +16,7 @@
 
 - 📫 How to reach me **chenshu0615@g.ucla.edu**
 
-- 📄 Know about my experiences [https://chenshu0615.wixsite.com/chenshu-liu](https://chenshu0615.wixsite.com/chenshu-liu)
-
-- ⚡ Fun fact **I have been a teacher since high school**
+- ⚡ Fun fact **I have been teaching since high school**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
