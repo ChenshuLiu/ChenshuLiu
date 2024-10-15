@@ -4,17 +4,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chenshuliu&label=Profile%20views&color=0e75b6&style=flat" alt="chenshuliu" /> </p>
 
-- 🔭 I’m currently working on [Minimal Invasive Eyelid Pressure Diagnosis for Dry-Eye-Syndrome](https://github.com/ChenshuLiu/DES_Diagnosis)
-
-- 🌱 I’m currently learning **Multimodal LLM, LangChain, Streamlit**
-
-- 👯 I’m looking to collaborate on **Creating an AI-ecosystem for Conservation of Cultural Heritage**
-
-- 🤝 I’m looking for help with **Using Graph Neural Networks for 3D Object Reconstruction**
+- 🌱 I’m currently learning **Multimodal LLM, LangChain, Streamlit, RAG**
 
 - 📑 You can find my publications at [https://scholar.google.com/citations?user=mZhhswoAAAAJ&hl=en](https://scholar.google.com/citations?user=mZhhswoAAAAJ&hl=en)
 
-- 👨‍💻 All of my projects are available at [https://chenshu0615.wixsite.com/chenshu-liu/copy-of-analytical-projects](https://chenshu0615.wixsite.com/chenshu-liu/copy-of-analytical-projects)
+- 👨‍💻 All of my projects (past & on-going) are available at [this site](https://chenshuliu.github.io/Portfolio/)
 
 - 📝 I regularly write articles on [https://chenshu0615.wixsite.com/chenshu-liu/brainstorms](https://chenshu0615.wixsite.com/chenshu-liu/brainstorms)
 
